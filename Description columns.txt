@@ -1,0 +1,203 @@
+S.No Columns Names Found in Paper Paper Meaning
+1 rev_Mean Mean monthly revenue (charge amount)
+2 mou_Mean Mean number of monthly minutes of use
+3 totmrc_Mean Mean total monthly recurring charge
+4 da_Mean Mean number of directory assisted calls
+5 ovrmou_Mean Mean overage minutes of use
+6 ovrrev_Mean Mean overage revenue
+7 vceovr_Mean Mean revenue of voice overage
+8 datovr_Mean Mean revenue of data overage
+9 roam_Mean Mean number of roaming calls
+10 change_mou Percentage change in monthly minutes of use vs previous three month average
+11 change_rev Percentage change in monthly revenue vs previous three month average
+12 drop_vce_Mean Mean number of dropped (failed) voice calls
+13 drop_dat_Mean Mean number of dropped (failed) data calls
+14 blck_vce_Mean Mean number of blocked (failed) voice calls
+15 blck_dat_Mean Mean number of blocked (failed) data calls
+16 unan_vce_Mean Mean number of unanswered voice calls
+17 unan_dat_Mean Mean number of unanswered data calls
+18 plcd_vce_Mean Mean number of attempted voice calls placed
+19 plcd_dat_Mean Mean number of attempted data calls placed
+20 recv_vce_Mean Mean number of received voice calls
+21 recv_sms_Mean N
+22 comp_vce_Mean Mean number of completed voice calls
+23 comp_dat_Mean Mean number of completed data calls
+24 custcare_Mean Mean number of customer care calls
+25 ccrndmou_Mean Mean rounded minutes of use of customer care calls
+26 cc_mou_Mean Mean unrounded minutes of use of customer care (see CUSTCARE_MEAN) calls
+27 inonemin_Mean Mean number of inbound calls less than one minute
+28 threeway_Mean Mean number of three way calls
+29 mou_cvce_Mean Mean unrounded minutes of use of completed voice calls
+30 mou_cdat_Mean Mean unrounded minutes of use of completed data calls
+31 mou_rvce_Mean Mean unrounded minutes of use of received voice calls
+32 owylis_vce_Mean Mean number of outbound wireless to wireless voice calls
+33 mouowylisv_Mean Mean unrounded minutes of use of outbound wireless to wireless voice calls
+34 iwylis_vce_Mean N
+35 mouiwylisv_Mean Mean unrounded minutes of use of inbound wireless to wireless voice calls
+36 peak_vce_Mean Mean number of inbound and outbound peak voice calls
+37 peak_dat_Mean Mean number of peak data calls
+38 mou_peav_Mean Mean unrounded minutes of use of peak voice calls
+39 mou_pead_Mean Mean unrounded minutes of use of peak data calls
+40 opk_vce_Mean Mean number of off-peak voice calls
+41 opk_dat_Mean Mean number of off-peak data calls
+42 mou_opkv_Mean Mean unrounded minutes of use of off-peak voice calls
+43 mou_opkd_Mean Mean unrounded minutes of use of off-peak data calls
+44 drop_blk_Mean Mean number of dropped or blocked calls
+45 attempt_Mean Mean number of attempted calls
+46 complete_Mean Mean number of completed calls
+47 callfwdv_Mean Mean number of call forwarding calls
+48 callwait_Mean Mean number of call waiting calls
+49 churn Instance of churn between 31-60 days after observation date
+50 months Total number of months in service
+51 uniqsubs Number of unique subscribers in the household
+52 actvsubs Number of active subscribers in household
+53 new_cell New cell phone user
+54 crclscod Credit class code
+55 asl_flag Account spending limit
+56 totcalls Total number of calls over the life of the customer
+57 totmou Total minutes of use over the life of the cus
+58 totrev Total revenue
+59 adjrev Billing adjusted total revenue over the life of the customer
+60 adjmou Billing adjusted total minutes of use over the life of the customer
+61 adjqty Billing adjusted total number of calls over the life of the customer
+62 avgrev Average monthly revenue over the life of the customer
+63 avgmou Average monthly minutes of use over the life of the customer
+64 avgqty Average monthly number of calls over the life of the customer
+65 avg3mou Average monthly minutes of use over the previous three months
+66 avg3qty Average monthly number of calls over the previous three months
+67 avg3rev Average monthly revenue over the previous three months
+68 avg6mou Average monthly minutes of use over the previous six months
+69 avg6qty Average monthly number of calls over the previous six months
+70 avg6rev Average monthly revenue over the previous six months
+71 prizm_social_one Social group letter only
+72 area Geogrpahic area
+73 dualband Dualband
+74 refurb_new Handset: refurbished or new
+75 hnd_price Current handset price
+76 phones Number of handsets issued
+77 models Number of models issued
+78 hnd_webcap Handset web capability
+79 truck Truck indicator
+80 rv RV indicator
+81 ownrent Home owner/renter status
+82 lor Length of residence
+83 dwlltype Dwelling Unit type
+84 marital Marital Status
+85 adults Number of adults in household
+86 infobase InfoBase match
+87 income Estimated income
+88 numbcars Known number of vehicles
+89 HHstatin Premier household status indicator
+90 dwllsize Dwelling size
+91 forgntvl Foreign travel dummy variable
+92 ethnic Ethnicity roll-up code
+93 kid0_2 Child 0 - 2 years of age in household
+94 kid3_5 Child 3 - 5 years of age in household
+95 kid6_10 Child 6 - 10 years of age in household
+96 kid11_15 Child 11 - 15 years of age in household
+97 kid16_17 Child 16 - 17 years of age in household
+98 creditcd Credit card indicator
+99 eqpdays Number of days (age) of current equipment
+100 Customer_ID N
+
+S.Нет имен столбцов, найденных в Paper Значение Paper
+1 rev_Mean Среднемесячный доход (сумма начислений)
+2 mou_Mean Среднее количество минут использования в месяц
+3 totmrc_Mean Средняя сумма ежемесячных регулярных платежей
+4 da_Mean Среднее количество вызовов с помощью справочника
+5 ovrmou_Mean Среднее превышение времени использования в минутах
+6 ovrrev_Mean Средний доход от перерасхода средств
+7 vceovr_Mean Средний доход от перерасхода голосовых услуг
+8 dtovr_Mean Средний доход от избыточных данных
+9 roam_Mean Среднее количество вызовов в роуминге
+10 change_mou Процентное изменение количества минут использования в месяц по сравнению со средним показателем за предыдущие три месяца.
+11 change_rev Процентное изменение месячного дохода по сравнению со средним значением за предыдущие три месяца.
+12 drop_vce_Mean Среднее количество потерянных (неудачных) голосовых вызовов
+13 drop_dat_Mean Среднее количество потерянных (неудачных) вызовов данных
+14 blck_vce_Mean Среднее количество заблокированных (неудачных) голосовых вызовов
+15 blck_dat_Mean Среднее количество заблокированных (неудачных) вызовов данных
+16 unan_vce_Mean Среднее количество неотвеченных голосовых вызовов
+17 unan_dat_Mean Среднее количество неотвеченных вызовов данных
+18 plcd_vce_Mean Среднее количество сделанных попыток голосовых вызовов
+19 plcd_dat_Mean Среднее количество выполненных попыток передачи данных
+20 recv_vce_Mean Среднее количество принятых голосовых вызовов
+21 recv_sms_Mean N
+22 comp_vce_Mean Среднее количество завершенных голосовых вызовов
+23 comp_dat_Mean Среднее количество завершенных вызовов данных
+24 custcare_Mean Среднее количество обращений в службу поддержки клиентов
+25 ccrndmou_Mean Среднее округленное количество минут использования обращений в службу поддержки клиентов
+26 cc_mou_Mean Среднее неокругленное количество минут использования обращений в службу поддержки клиентов (см. CUSTCARE_MEAN)
+27 inonemin_Mean Среднее количество входящих вызовов менее одной минуты
+28 threeway_Mean Среднее количество трехсторонних вызовов
+29 mou_cvce_Mean Среднее неокругленное количество минут использования завершенных голосовых вызовов
+30 mou_cdat_Mean Среднее неокругленное количество минут использования завершенных вызовов данных
+31 mou_rvce_Mean Среднее неокругленное количество минут использования полученных голосовых вызовов
+32 owylis_vce_Mean Среднее количество исходящих голосовых вызовов с беспроводной сети на беспроводную
+33 mouowylisv_Mean Среднее неокругленное количество минут использования исходящих беспроводных голосовых вызовов на беспроводные
+34 iwylis_vce_Mean N
+35 mouiwylisv_Mean Среднее неокругленное количество минут использования входящих беспроводных и беспроводных голосовых вызовов
+36peak_vce_Mean Среднее количество входящих и исходящих голосовых вызовов в пиковый период
+37peak_dat_Mean Среднее количество пиковых вызовов данных
+38 mou_peav_Mean Среднее неокругленное количество минут использования пиковых голосовых вызовов
+39 mou_pead_Mean Среднее неокругленное количество минут использования пиковых вызовов данных
+40 opk_vce_Mean Среднее количество голосовых вызовов в непиковое время
+41 opk_dat_Mean Среднее количество вызовов данных в непиковое время
+42 mou_opkv_Mean Среднее неокругленное количество минут использования голосовых вызовов в непиковое время
+43 mou_opkd_Mean Среднее неокругленное количество минут использования вызовов для передачи данных в непиковое время.
+44 drop_blk_Mean Среднее количество сброшенных или заблокированных вызовов
+45 try_Mean Среднее количество попыток звонков
+46 complete_Mean Среднее количество завершенных вызовов
+47 callfwdv_Mean Среднее количество вызовов с переадресацией вызовов
+48 callwait_Mean Среднее количество ожидающих вызовов
+49 churn Случай оттока между 31-60 днями после даты наблюдения
+50 месяцев Общее количество месяцев эксплуатации
+51 uniqsubs Количество уникальных подписчиков в семье
+52 actvsubs Количество активных подписчиков в домохозяйстве
+53 new_cell Новый пользователь сотового телефона
+54 crclscod Код кредитного класса
+55 asl_flag Лимит расходов аккаунта
+56 totcalls Общее количество звонков за время жизни клиента
+57 totmou Общее количество минут использования в течение срока службы куса
+58 торев Общий доход
+59 adjrev Суммарный доход, скорректированный в счет выставления счетов за все время существования клиента
+60 adjmou Скорректированное выставление счетов за общее количество минут использования в течение жизни клиента
+61 adjqty Скорректированное биллингом общее количество звонков в течение жизни клиента
+62 авгрев Среднемесячный доход в течение срока действия клиента
+63 avgmou Среднемесячное количество минут использования в течение жизни клиента
+64 avgqty Среднемесячное количество звонков в течение жизни клиента
+65 avg3mou Среднемесячное количество минут использования за предыдущие три месяца
+66 avg3qty Среднемесячное количество звонков за предыдущие три месяца
+67 avg3rev Среднемесячный доход за предыдущие три месяца
+68 avg6mou Среднемесячное количество минут использования за предыдущие шесть месяцев
+69 avg6qty Среднемесячное количество звонков за предыдущие шесть месяцев
+70 avg6rev Среднемесячный доход за предыдущие шесть месяцев
+71 prizm_social_one Только письмо социальной группы
+72 район Географический район
+73 двухдиапазонный двухдиапазонный
+74 refurb_new Телефон: восстановленный или новый
+75 hnd_price Текущая цена телефона
+76 телефонов Количество выпущенных телефонов
+77 моделей Количество выпущенных моделей
+78 hnd_webcap Веб-возможности телефона
+79 грузовик Индикатор грузовика
+80 rv Индикатор RV
+81 ownrent Статус владельца/арендатора дома
+82 лор Продолжительность проживания
+83 dwlltype Тип жилого помещения
+84 семейное положение
+85 взрослых Количество взрослых в домохозяйстве
+86 информационная база соответствует информационной базе
+87 доход Предполагаемый доход
+88 numbcars Известное количество автомобилей
+89 Индикатор статуса домохозяйства HHstatin Premier
+90 dwllsize Размер жилья
+91 forgntvl Фиктивная переменная для поездок за границу
+92 Сводный код этнической принадлежности
+93 kid0_2 Ребенок в возрасте 0–2 лет в семье
+94 kid3_5 Ребенок 3–5 лет в семье
+95 kid6_10 Ребенок 6–10 лет в семье
+96 kid11_15 Ребенок 11–15 лет в семье
+97 kid16_17 Ребенок 16–17 лет в семье
+98 creditcd Индикатор кредитной карты
+99 eqpdays Количество дней (возраст) текущего оборудования
+100 Customer_ID N
